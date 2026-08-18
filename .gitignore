@@ -1,0 +1,11 @@
+# Datasets and archives
+*.zip
+metropt_3_dataset/
+railways-master/
+archive/
+archive_(1)/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
